@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 console.log('Hello World!'); // Statement always finish with a Semicolon;
 // open Terminal with shortcut: CTRL and Shift and ` (next to backspace)
 // make code bigger and smaller CTRL and + (bigger) or CTRL and - (smaller)
@@ -34,3 +35,14 @@ console.log(true === true);
         }
     }
 }
+=======
+//console.log("expression");
+// NODE REPL = Read Execute Print Loop
+console.log(true == false); //Boolean Expression
+console.log(1 + 1); // Mathematical expression
+console.log("hello" + "world"); //String expression
+console.log(typeof "..."); // UNARY operator
+console.log(13 > 23 ? "It's bigger" : "It's smaller"); //TERNARY operator
+
+// ()[]{} ---- brackets always come in pairs;
+>>>>>>> 9771f11... my file
