@@ -10,4 +10,5 @@
 
 console.log('Hello'); // Creates a new line
 console.log('world'); // even if its empty 
-console.log('!'); // console.log()
+console.log('!'); // console.log('something')
+
